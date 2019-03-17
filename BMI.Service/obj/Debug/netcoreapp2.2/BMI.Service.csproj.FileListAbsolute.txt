@@ -1,0 +1,14 @@
+C:\Users\chris\Documents\Visual Studio 2017\Projects\WebApplication4\BMI.Service\bin\Debug\netcoreapp2.2\BMI.Service.deps.json
+C:\Users\chris\Documents\Visual Studio 2017\Projects\WebApplication4\BMI.Service\bin\Debug\netcoreapp2.2\BMI.Service.dll
+C:\Users\chris\Documents\Visual Studio 2017\Projects\WebApplication4\BMI.Service\bin\Debug\netcoreapp2.2\BMI.Service.pdb
+C:\Users\chris\Documents\Visual Studio 2017\Projects\WebApplication4\BMI.Service\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\chris\Documents\Visual Studio 2017\Projects\WebApplication4\BMI.Service\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\chris\Documents\Visual Studio 2017\Projects\WebApplication4\BMI.Service\obj\Debug\netcoreapp2.2\BMI.Service.csprojAssemblyReference.cache
+C:\Users\chris\Documents\Visual Studio 2017\Projects\WebApplication4\BMI.Service\obj\Debug\netcoreapp2.2\BMI.Service.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\Visual Studio 2017\Projects\WebApplication4\BMI.Service\obj\Debug\netcoreapp2.2\BMI.Service.AssemblyInfoInputs.cache
+C:\Users\chris\Documents\Visual Studio 2017\Projects\WebApplication4\BMI.Service\obj\Debug\netcoreapp2.2\BMI.Service.AssemblyInfo.cs
+C:\Users\chris\Documents\Visual Studio 2017\Projects\WebApplication4\BMI.Service\obj\Debug\netcoreapp2.2\BMI.Service.csproj.CopyComplete
+C:\Users\chris\Documents\Visual Studio 2017\Projects\WebApplication4\BMI.Service\obj\Debug\netcoreapp2.2\BMI.Service.dll
+C:\Users\chris\Documents\Visual Studio 2017\Projects\WebApplication4\BMI.Service\obj\Debug\netcoreapp2.2\BMI.Service.pdb
+C:\Users\chris\Documents\Visual Studio 2017\Projects\WebApplication4\BMI.Service\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\chris\Documents\Visual Studio 2017\Projects\WebApplication4\BMI.Service\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Caching.Abstractions.xml

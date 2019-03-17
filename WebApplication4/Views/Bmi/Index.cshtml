@@ -1,0 +1,27 @@
+﻿@model WebApplication4.Models.BmiAggregationViewModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<div>
+    <h4>BmiAggregationViewModel</h4>
+    <hr />
+    
+    @if (Model != null)
+    {
+        foreach (var aggregatedBmiData in Model.AggregatedBmi)
+        {
+            <div>
+                @aggregatedBmiData.Category
+            </div>
+            <div>
+                @aggregatedBmiData.Count
+            </div>
+        }
+    }
+    <dl class="row">
+    </dl>
+</div>
